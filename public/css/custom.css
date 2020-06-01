@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{font-family: 'Noto Sans', sans-serif;background-color: #eee;}
+/*new disgne button en bg and text*/
+.text-pink{color: #c2185b;}
+.text-teal{color: #00695c;}
+.btn-pink{color:#fff;background-color:#c2185b;border-color:#c2185b}.btn-pink:hover{color:#fff;background-color:#880e4f;border-color:#880e4f}.btn-pink.focus,.btn-pink:focus{color:#fff;background-color:#880e4f;border-color:#880e4f;box-shadow:0 0 0 .2rem rgba(72,180,97,.5)}
+.btn-teal{color:#fff;background-color:#00695c ;border-color:#00695c }.btn-teal:hover{color:#fff;background-color:#004d40;border-color:#004d40}.btn-teal.focus,.btn-teal:focus{color:#fff;background-color:#004d40;border-color:#004d40;box-shadow:0 0 0 .2rem rgba(72,180,97,.5)}
+.bg-pink{background-color:#c2185b!important}a.bg-pink:focus,a.bg-pink:hover,button.bg-pink:focus,button.bg-pink:hover{background-color:#880e4f!important}
+.bg-teal{background-color:#00695c!important}a.bg-teal:focus,a.bg-teal:hover,button.bg-teal:focus,button.bg-teal:hover{background-color:#004d40!important}
+.bg-teal-darken{background-color:#00796b!important}a.bg-teal:focus,a.bg-teal:hover,button.bg-teal:focus,button.bg-teal:hover{background-color:#00695c!important}
+/*end of new disgne button en bg and text*/
+
